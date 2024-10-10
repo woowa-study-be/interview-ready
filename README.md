@@ -1,7 +1,7 @@
 ## 면접 준비 반
 
 <details>
-  <summary><h2> 🍇 폴라 </h2></summary>
+  <summary><h2> :-1: 폴라 </h2></summary>
 </details>
 
 <details>
